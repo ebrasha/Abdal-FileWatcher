@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "M342xil0PdXsImQ+RvoErda96IgkSEQSRrAuEcVDeJup9/C5bMuryNZs2P9o30oLfDfg1ljaOu+oKkLGul+a1w==",
+  "success": true,
+  "projectFilePath": "F:\\Drive-C\\Documents\\Github\\Abdal FileWatcher\\Abdal FileWatcher.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Windows\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\6.0.21\\microsoft.netcore.app.runtime.win-x64.6.0.21.nupkg.sha512",
+    "C:\\Users\\Windows\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\6.0.21\\microsoft.windowsdesktop.app.runtime.win-x64.6.0.21.nupkg.sha512",
+    "C:\\Users\\Windows\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\6.0.21\\microsoft.aspnetcore.app.runtime.win-x64.6.0.21.nupkg.sha512"
+  ],
+  "logs": []
+}

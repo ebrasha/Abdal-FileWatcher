@@ -1,0 +1,14 @@
+F:\Drive-C\Documents\Github\Abdal FileWatcher\bin\Release\net6.0\Abdal FileWatcher.exe
+F:\Drive-C\Documents\Github\Abdal FileWatcher\bin\Release\net6.0\Abdal FileWatcher.deps.json
+F:\Drive-C\Documents\Github\Abdal FileWatcher\bin\Release\net6.0\Abdal FileWatcher.runtimeconfig.json
+F:\Drive-C\Documents\Github\Abdal FileWatcher\bin\Release\net6.0\Abdal FileWatcher.dll
+F:\Drive-C\Documents\Github\Abdal FileWatcher\bin\Release\net6.0\Abdal FileWatcher.pdb
+F:\Drive-C\Documents\Github\Abdal FileWatcher\obj\Release\net6.0\Abdal FileWatcher.GeneratedMSBuildEditorConfig.editorconfig
+F:\Drive-C\Documents\Github\Abdal FileWatcher\obj\Release\net6.0\Abdal FileWatcher.AssemblyInfoInputs.cache
+F:\Drive-C\Documents\Github\Abdal FileWatcher\obj\Release\net6.0\Abdal FileWatcher.AssemblyInfo.cs
+F:\Drive-C\Documents\Github\Abdal FileWatcher\obj\Release\net6.0\Abdal FileWatcher.csproj.CoreCompileInputs.cache
+F:\Drive-C\Documents\Github\Abdal FileWatcher\obj\Release\net6.0\Abdal FileWatcher.dll
+F:\Drive-C\Documents\Github\Abdal FileWatcher\obj\Release\net6.0\refint\Abdal FileWatcher.dll
+F:\Drive-C\Documents\Github\Abdal FileWatcher\obj\Release\net6.0\Abdal FileWatcher.pdb
+F:\Drive-C\Documents\Github\Abdal FileWatcher\obj\Release\net6.0\Abdal FileWatcher.genruntimeconfig.cache
+F:\Drive-C\Documents\Github\Abdal FileWatcher\obj\Release\net6.0\ref\Abdal FileWatcher.dll
